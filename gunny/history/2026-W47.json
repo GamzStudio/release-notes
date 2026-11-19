@@ -1,0 +1,27 @@
+{
+  "project": "gunny",
+  "period": "2026-W47",
+  "approved_at": "2026-11-19T15:53:34.443972+07:00",
+  "items": [
+    {
+      "type": "feature",
+      "text": "Phó bản: thêm ải Hydra, Bí Ngô Biển Băng, Cua Hoàng Đế, làm mới Tàu Ma"
+    },
+    {
+      "type": "feature",
+      "text": "Trận đấu: giao diện mới, vật cản bản đồ, sửa lỗi cắt lượt và gió"
+    },
+    {
+      "type": "feature",
+      "text": "Giao diện: nhân vật hoạt ảnh mới, banner thắng thua, sửa giá cửa hàng và thư"
+    },
+    {
+      "type": "fix",
+      "text": "Guild và hoạt động: sửa lỗi Boss Guild, Boss Thế Giới, Đấu Rank, sự kiện"
+    },
+    {
+      "type": "feature",
+      "text": "Đăng nhập: xếp hàng chờ khi server đông, vào game ổn định hơn"
+    }
+  ]
+}
