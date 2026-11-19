@@ -1,0 +1,27 @@
+{
+  "project": "12suquan",
+  "period": "2026-W47",
+  "approved_at": "2026-11-19T15:53:46.396274+07:00",
+  "items": [
+    {
+      "type": "feature",
+      "text": "KvK: thưởng xếp hạng cuối mùa, xin vào bang và công nghệ liên minh tại chiến trường"
+    },
+    {
+      "type": "feature",
+      "text": "Sự kiện: thêm sự kiện mới tuần này, sửa quà hạng Chuẩn Bị Xuất Chinh"
+    },
+    {
+      "type": "fix",
+      "text": "Bản đồ: sửa dời thành mất Hưng Bảo, báo thiếu thể lực oan, năng lượng không hồi"
+    },
+    {
+      "type": "feature",
+      "text": "Giao diện: gợi ý dài cuộn được, sửa ảnh đại diện, giảm giật video tướng"
+    },
+    {
+      "type": "fix",
+      "text": "Tài khoản: sửa lỗi thua đấu trường oan, tìm được tên sau khi di trú"
+    }
+  ]
+}
