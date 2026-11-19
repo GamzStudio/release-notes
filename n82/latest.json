@@ -1,0 +1,27 @@
+{
+  "project": "n82",
+  "period": "2026-W47",
+  "approved_at": "2026-11-19T15:53:54.287330+07:00",
+  "items": [
+    {
+      "type": "fix",
+      "text": "Sự kiện: nút tham gia sáng đúng, báo lý do bị từ chối, vào muộn vẫn được"
+    },
+    {
+      "type": "fix",
+      "text": "Đấu trường: hiện lại hoạt động liên server, hết treo ghép trận chiến trường"
+    },
+    {
+      "type": "fix",
+      "text": "Môn phái: sửa mất boss Bí Cảnh, nhân vật và quái đứng đúng chỗ"
+    },
+    {
+      "type": "fix",
+      "text": "Giao diện: sửa chữ đè, chấm đỏ Võ Hồn, câu cá, đổi tên Kháng Nguyên"
+    },
+    {
+      "type": "feature",
+      "text": "Công cụ GM: mở/đóng sự kiện ngay, xoá vật phẩm, gửi thư theo số nhân vật"
+    }
+  ]
+}
