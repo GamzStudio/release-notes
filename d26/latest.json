@@ -1,27 +1,47 @@
 {
   "project": "d26",
-  "period": "2026-W47",
-  "approved_at": "2026-11-19T15:53:34.443972+07:00",
+  "period": "2026-W48",
+  "approved_at": "2026-11-27T16:10:06.598872+07:00",
   "items": [
     {
       "type": "feature",
-      "text": "Phó bản: thêm ải Hydra, Bí Ngô Biển Băng, Cua Hoàng Đế, làm mới Tàu Ma"
-    },
-    {
-      "type": "feature",
-      "text": "Trận đấu: giao diện mới, vật cản bản đồ, sửa lỗi cắt lượt và gió"
-    },
-    {
-      "type": "feature",
-      "text": "Giao diện: nhân vật hoạt ảnh mới, banner thắng thua, sửa giá cửa hàng và thư"
+      "text": "Bản đồ biển: thuyền không leo lên đá, bản đồ mới, thêm quái biển"
     },
     {
       "type": "fix",
-      "text": "Guild và hoạt động: sửa lỗi Boss Guild, Boss Thế Giới, Đấu Rank, sự kiện"
+      "text": "Phó bản: Tàu Ma mỗi màn một bản đồ, phòng thám hiểm đủ 4 chỗ"
     },
     {
       "type": "feature",
-      "text": "Đăng nhập: xếp hàng chờ khi server đông, vào game ổn định hơn"
+      "text": "Trận đấu: đồng hồ lượt chính xác, bấm ảnh người chơi để nhắn tin, kết bạn"
+    },
+    {
+      "type": "feature",
+      "text": "Giao diện: đổi tên tiền tệ, chỉnh cửa hàng, gọn màn hình chính, thêm bảng Có gì mới"
+    },
+    {
+      "type": "fix",
+      "text": "Sự kiện: Hút Gà mở và đóng đúng giờ mỗi ngày"
+    },
+    {
+      "type": "feature",
+      "text": "Trận đấu: thêm boss Hydra, Bí Ngô, làm lại pháo phụ, sửa lỗi ải"
+    },
+    {
+      "type": "feature",
+      "text": "Cửa hàng: giao diện mới, nhãn giảm giá, sửa hình pháo, không mất quà rương"
+    },
+    {
+      "type": "feature",
+      "text": "Giao diện: tóc mũ mới, làm mới Thuyền, Thư, Guild, phòng chờ"
+    },
+    {
+      "type": "feature",
+      "text": "Nhiệm vụ: thêm nhiệm vụ tiêu Ruby/Vàng, sửa lỗi nhận nhiệm vụ, sự kiện"
+    },
+    {
+      "type": "feature",
+      "text": "Hệ thống: chơi được trên Windows, đăng nhập ổn định, sửa lỗi chat, thư"
     }
   ]
 }
